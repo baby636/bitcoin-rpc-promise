@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "bitcoind-rpc": "^0.8.0"
+    "bitcoind-rpc": "^0.8.1"
   },
   "devDependencies": {},
   "scripts": {
